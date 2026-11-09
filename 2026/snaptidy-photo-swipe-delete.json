@@ -4,7 +4,7 @@
   "description": "Clean up your iPhone camera roll in small batches: swipe to keep or mark, and nothing is deleted until you confirm",
   "category": "media",
   "platforms": ["ios", "ipad"],
-  "deal": "50% off Pro Lifetime Nov 27–30; 1 month of Pro free through Dec 30, then $4.99/mo",
+  "deal": "50% off Pro Lifetime Nov 27–30; 1 month free for new subscribers, then $4.99/mo (US)",
   "pricing": "lifetime",
   "price": { "regular": 39.99, "sale": 19.99, "currency": "USD" },
   "discount": 50,
